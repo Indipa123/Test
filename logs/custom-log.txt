@@ -1,0 +1,17 @@
+[2024-10-19 12:21:44] Login attempt for email: mala@gmail.com
+[2024-10-19 12:21:44] Login successful for email: mala@gmail.com
+[2024-10-19 16:41:30] Login attempt for email: sahansith@gmail.com
+[2024-10-19 16:41:30] Invalid login attempt for email: sahansith@gmail.com. Remaining attempts: 4.
+[2024-10-19 16:41:50] Login attempt for email: sahansith@gmail.com
+[2024-10-19 16:41:50] Invalid login attempt for email: sahansith@gmail.com. Remaining attempts: 3.
+[2024-10-19 16:42:09] Login attempt for email: sahansith@gmail.com
+[2024-10-19 16:42:09] Successful login for email: sahansith@gmail.com.
+[2024-10-19 17:02:17] Login attempt for email: mali@gmail.com
+[2024-10-19 17:02:18] Successful login for email: mali@gmail.com.
+[2024-10-19 18:27:12] Login attempt for email: methma@gmail.com
+[2024-10-19 18:27:12] Invalid login attempt for email: methma@gmail.com. Remaining attempts: 4.
+[2024-10-19 18:27:39] Login attempt for email: methma@gmail.com
+[2024-10-19 18:27:39] Invalid login attempt for email: methma@gmail.com. Remaining attempts: 3.
+[2024-10-19 18:28:04] Login attempt for email: methma@gmail.com
+[2024-10-19 18:28:04] Successful login for email: methma@gmail.com.
+[2024-11-27 17:56:42] Login attempt for email: indipa2002ayomal@gmail.com
